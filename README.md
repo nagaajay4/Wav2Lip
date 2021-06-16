@@ -1,6 +1,6 @@
 # Wav2Lip
 final year project
-team: 
+team: \
 B Pavana V Prabhu   (1PE17CS032) \
 G Rohit Reddy       (1PE17CS052) \
 Naga Ajay K         (1PE17CS090) \
